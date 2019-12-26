@@ -1,5 +1,5 @@
 [package]
-name = "rust-commandline-template"
+name = "rust_commandline_template"
 version = "0.1.0"
 authors = ["wtetsu <tewatana@gmail.com>"]
 edition = "2018"
